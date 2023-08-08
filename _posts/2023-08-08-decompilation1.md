@@ -70,6 +70,7 @@ PERFECT decompilation is impossible in alot of cases, again, depends on what you
 The first idea I presented about what decompilation might be about is the compiled and original form. <br>
 
 The second idea, and the most important one, is that decompilation is just about representations of data and shifting between them. <br>
+
 This idea explains that data isnt free, you dont get data out of nowhere, the original data just goes through a series of transformations to arrive to a readable form, and in these transformations you deduce data and deal with different types of data, for example, theres a transformation to a pseudo expression IR out of assembly,
 and a pass to reintroduce control flow statements to the program using only gotos and jumps, along many other transformations you might find in a typical decompiler. <br>
 im gonna go in depth about each of them in the next blogs, in the next blog, im gonna explain all the "steps" of a decompiler, and how they all connect.
