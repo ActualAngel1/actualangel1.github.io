@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Rafael. Usually going under the name ```angel/actualangel```.
+Welcome! I usually go by```angel/actualangel```.
 
 I am interested in decompilation and compiler optimizations as well. 
 
