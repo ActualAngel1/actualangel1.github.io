@@ -10,22 +10,16 @@ redirect_from:
 
 > “It is possible to write endlessly about elliptic curves. (This is not a threat.)” - Serge Lang.
 
-Welcome! I'm preemptible. Usually going either under that handle or as ```frobenius_endomorphism()```.
+Welcome! I'm Rafael. Usually going under the name ```angel/actualangel```.
 
-I am interested in elliptic curves $\to$ [Crypto](https://cryptoisnotcryptocurrency) as well. 
+I am interested in decompilation and compiler optimizations as well. 
 
-I also do [Project Euler](https://projecteuler.net) and play [CTFs](https://www.youtube.com/watch?v=8ev9ZX9J45A).
+I also do [pwnables](https://pwnable.kr/) and read math stuff.
 
-Other than that, I play osu!, read comic books and do competitive programming (rarely, but it's nice).
-
-I use [pypy](https://www.pypy.org) for computational math (Project Euler, Crypto etc...) and [D](https://dlang.org) for competitive programming.
+I mainly program in Java and C but I can handle some C++ and Python.
 
 If you want to contact me, it can be done via:
 
-- Mail: twistededwards@protonmail.com
+- Mail: socratesbeepic@gmail.com
 
-- Telegram: sudorm1 
-
-- Discord: preemptible
-
-![cool pic](https://projecteuler.net/resources/images/0780_animation.gif?1678992057)
+- Discord: la__in
