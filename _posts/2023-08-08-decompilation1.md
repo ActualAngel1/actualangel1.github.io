@@ -28,9 +28,9 @@ whats even the point of these blogs
 # About this blog
 let me give you a quick intro, ok? <br>
 these blogs will go through decompilation in a less.. academic way, <br>
-I would like to save you the unnecessary details and explain the mathematics only when absolutely needed, <br>
+I would like to save you the unnecessary details and explain the mathematics only when absolutely needed, 
 and mostly as a way to give you some intuition about whats going on. <br>
-You might have tried to study this subject but have been offput by the academic way of approaching this subject, <br>
+You might have tried to study this subject but have been offput by the academic way of approaching this subject, 
 I had to go through all that, and although its really interesting, you probably dont want to look at equations and weird math stuff all day. <br>
 I want to give you the MEAT of the subject. <br>
 
