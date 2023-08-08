@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-> “It is possible to write endlessly about elliptic curves. (This is not a threat.)” - Serge Lang.
-
 Welcome! I'm Rafael. Usually going under the name ```angel/actualangel```.
 
 I am interested in decompilation and compiler optimizations as well. 
