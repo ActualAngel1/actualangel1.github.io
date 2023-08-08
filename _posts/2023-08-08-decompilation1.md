@@ -6,7 +6,7 @@ output:
     preserve_yaml: TRUE
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
-date: 2023-06-10
+date: 2023-08-08
 permalink: /posts/first
 excerpt_separator: <!--more-->
 always_allow_html: true
@@ -44,7 +44,7 @@ well, if this program you execute happens to be malware, then.. you might wanna 
 Decompilation is very important for malware analysis, since you wanna know how the virus works to prevent it. <br>
 It's also very useful for other reverse engineering tasks. <br>
 What one might miss is that the subject of decompilation isn't about the compiled form or even the original form, its simply a quest to shift between different
-representations. <br>
+representations of the same data, no magic here. <br>
 
 Go, C, Rust, C++ for example, are all compiled to the same form, the specfic decompiler you might use is just a tool to shift the representation of assembly to a more 
 readable C/Go/Rust/C++ code. <br>
