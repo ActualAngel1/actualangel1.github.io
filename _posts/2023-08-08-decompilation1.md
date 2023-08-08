@@ -50,7 +50,7 @@ For example:
 Say im decompiling a while loop, the syntax to make a while loop can be different between languages, so the decompiler tries to make it to the correct original form of the program, if its syntax or features.
 many features can cause the same compiled form code, so its up to the decompiler implementation to think when what fits (for example a for loop is just syntatic sugar of a while loop).
 
-So because this idea that decompilation is only about the compiled form and original form, it makes sense that bytecode is easier to decompile, since the representation is more higher level, and its easier to decompile the compiled form of C code as opposed to C++ code.
+So because this idea that decompilation is only about the compiled form and original form, it makes sense that bytecode is easier to decompile, since the representation is more high level, and its easier to decompile the compiled form of C code as opposed to C++ code.
 
 
 
