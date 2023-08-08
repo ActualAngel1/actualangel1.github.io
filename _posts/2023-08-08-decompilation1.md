@@ -45,6 +45,7 @@ Decompilation is very important for malware analysis, since you wanna know how t
 It's also very useful for other reverse engineering tasks. <br>
 What one might miss is that the subject of decompilation isn't about the compiled form or even the original form, its simply a quest to shift between different
 representations. <br>
+
 Go, C, Rust, C++ for example, are all compiled to the same form, the specfic decompiler you might use is just a tool to shift the representation of assembly to a more 
 readable C/Go/Rust/C++ code. <br>
 It tries to fit the compiled form to the correct shape, tries to understand what original code caused that. <br>
