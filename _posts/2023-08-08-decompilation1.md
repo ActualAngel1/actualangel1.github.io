@@ -41,6 +41,7 @@ ok, im gonna do the necessary bidding and explain what even IS decompilation and
 Some of you might see the compiled form of an original program as final, the story ends here, all thats left is to execute. <br>
 Unless you do reverse-engineering work, you dont seem to care about what the final representation means, and why should you, honsetly.. <br>
 well, if this program you execute happens to be malware, then.. you might wanna know whats up. <br>
+
 Decompilation is very important for malware analysis, since you wanna know how the virus works to prevent it. <br>
 It's also very useful for other reverse engineering tasks. <br>
 What one might miss is that the subject of decompilation isn't about the compiled form or even the original form, its simply a quest to shift between different
