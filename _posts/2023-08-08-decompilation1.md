@@ -1,5 +1,5 @@
 ---
-title: First example blog post
+title: Introduction To Decompilation: Part 1 - What's this all about?
 output:
   md_document:
     variant: gfm+footnotes
@@ -17,16 +17,23 @@ tags:
   - tag
 ---
 
-A first blog post to get some sense of .md compilation!
+Why would I care about this?
 <!--more-->
 
-It has math support, see
+So... Hey!
+I bet you're looking at this and saying, why should I care? 
+whats so interesting about decompilation anyways..?
+whats even the point of these blogs
 
-$$\displaystyle E\subseteq \{\{x,y\}\mid x,y\in V\;{\textrm {and}}\;x\neq y\}$$
+let me give you a quick intro, ok?
+these blogs will go through decompilation in a less.. academic way, 
+I would like to save you the details and explain the mathematics only when absolutly needed, 
+and mostly as a way to give you some intuition about whats going on.
+You might have tried to study this subject but have been offput by the academic way of approaching this subject,
+I had to go through all that, and although its really interesting, you probably dont want to look at equations and weird math stuff all day.
+I want to give you the MEAT of the subject.
 
-And also Java support
-
-
+ok, im gonna do the necessary bidding and explain what even IS decompilation and why YOU should care about it.
 
 ```java
 import java.util.List;
