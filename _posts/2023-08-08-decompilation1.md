@@ -38,13 +38,15 @@ I want to give you the MEAT of the subject. <br>
 
 ok, im gonna do the necessary bidding and explain what even IS decompilation and why YOU should care about it. <br>
 
-Some of you might see the compiled form of an original program as final, the story ends here, all thats left is to execute. <br>
+Some of you might see the compiled form of an original program as final, the story ends here, all thats left is to execute, <br>
 Unless you do reverse-engineering work, you dont seem to care about what the final representation means, and why should you, honsetly.. <br>
 well, if this program you execute happens to be malware, then.. you might wanna know whats up. <br>
 
+Decompilation is the process of trying to present the final representation in the terms of the original language, for example trying to make assembly look like C code and in some cases trying to retrieve the code to the exact procedure that caused the final representation, or at least look like something that might have caused it. <br>
+
 Decompilation is very important for malware analysis, since you wanna know how the virus works to prevent it. <br>
 It's also very useful for other reverse engineering tasks. <br>
-What one might miss is that the subject of decompilation isn't about the compiled form or even the original form, its simply a quest to shift between different
+What one might miss is that the subject of decompilation isn't only about the compiled form or even the original form, its simply a quest to shift between different
 representations of the same data, no magic here. <br>
 
 Go, C, Rust, C++ for example, are all compiled to the same form, the specfic decompiler you might use is just a tool to shift the representation of assembly to a more 
@@ -53,10 +55,10 @@ It tries to fit the compiled form to the correct shape, tries to understand what
 
 For example: <br>
 Say im decompiling a while loop, the syntax to make a while loop can be different between languages, so the decompiler tries to make it to the correct original form of the program, if its syntax or features. <br>
-many features can cause the same compiled form code, so its up to the decompiler implementation to think when what fits (for example a for loop is just syntatic sugar of a while loop). <br>
+Multiple language features can result in the same compiled code, leaving it to the decompiler's implementation to determine suitable interpretations. For instance, a for loop can be viewed as syntactic sugar for a while loop. <br>
 
 
-So because this idea that decompilation is only about the compiled form and original form, it makes sense that bytecode is easier to decompile, since the representation is more high level, and its easier to decompile the compiled form of C code as opposed to C++ code. <br>
+So because this idea that decompilation is also about the compiled form and original form, it makes sense that bytecode is easier to decompile, since the representation is more high level, and its easier to decompile the compiled form of C code as opposed to C++ code. <br>
 
 
 
